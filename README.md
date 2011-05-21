@@ -1,0 +1,1 @@
+I couldn't find any examples of creating a mesh from Kinect depth data, so I bashed this together with Cinder. Suggestions welcome.
